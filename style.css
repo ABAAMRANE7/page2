@@ -656,7 +656,7 @@ a:focus {
 }
 
 .client_section .carousel-control-next-icon {
-  background-image: url(../images/next-black.png);
+  background-image: url("https://raw.githack.com/ABAAMRANE7/page2/main/next-black.png");
 }
 
 .client_section .carousel-control-next-icon:hover {
