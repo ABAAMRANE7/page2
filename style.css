@@ -648,11 +648,11 @@ a:focus {
 }
 
 .client_section .carousel-control-prev-icon {
-  background-image: url(../images/prev-black.png);
+  background-image: url("https://raw.githack.com/ABAAMRANE7/page2/main/prev-black.png");
 }
 
 .client_section .carousel-control-prev-icon:hover {
-  background-image: url(../images/prev.png);
+  background-image: url("https://raw.githack.com/ABAAMRANE7/page2/main/prev.png");
 }
 
 .client_section .carousel-control-next-icon {
