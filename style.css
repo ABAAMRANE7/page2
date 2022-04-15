@@ -53,7 +53,7 @@ body {
 .hero_area {
   height: 100vh;
   position: relative;
-  background-image: src="https://lh3.googleusercontent.com/-UvV5wwKXtew/YllGlb7J2wI/AAAAAAAAA7Y/c2thjDzt6rAL2D5Pz24eextn4-OTeB4UACNcBGAsYHQ/h120/hero-bg.png";
+  background-image: url(..https://lh3.googleusercontent.com/-UvV5wwKXtew/YllGlb7J2wI/AAAAAAAAA7Y/c2thjDzt6rAL2D5Pz24eextn4-OTeB4UACNcBGAsYHQ/h120/hero-bg.png);
   background-size: cover;
   background-position: bottom right;
   background-repeat: no-repeat;
