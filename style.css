@@ -366,7 +366,7 @@ a:focus {
 
 .item_section .item_container .box h5 {
   text-transform: uppercase;
-  
+  text-align: center;
 }
 
 .item_section .item_container .box:hover {
@@ -552,7 +552,7 @@ a:focus {
 
 .ring_section .ring_container .detail-box h4 {
   text-transform: uppercase;
-  color: #fbb534;
+  color: #df4a3b;
 }
 
 .ring_section .ring_container .detail-box a {
