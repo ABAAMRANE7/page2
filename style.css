@@ -365,6 +365,7 @@ a:focus {
 
 .item_section .item_container .box h5 {
   text-transform: uppercase;
+  text-align: center;
 }
 
 .item_section .item_container .box:hover {
