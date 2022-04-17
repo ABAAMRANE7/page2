@@ -585,7 +585,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  border: 1px solid #fbb534;
+  border: 1px solid #df4a3b;
   padding: 25px;
   width: 85%;
   margin: 75px auto;
@@ -614,7 +614,7 @@ a:focus {
 }
 
 .client_section .client_container .client-id h6 {
-  color: #f6d768;
+  color: #df4a3b;
 }
 
 .client_section .client_container .detail-box {
@@ -730,7 +730,7 @@ a:focus {
   border-radius: 30px;
   color: #fff;
   background: -webkit-gradient(linear, left top, left bottom, from(#f5e47b), to(#fb930a));
-  background: linear-gradient(to bottom, #f5e47b, #fb930a);
+  background: linear-gradient(to bottom, #cbab82, #3be750);
   margin-top: 35px;
 }
 
@@ -810,7 +810,7 @@ a:focus {
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   border-radius: 5px;
-  background-color: #f8bf46;
+  background-color: #3be750;
 }
 
 .info_section .info_form form {
@@ -855,7 +855,7 @@ a:focus {
   border-radius: 30px;
   color: #fff;
   background: -webkit-gradient(linear, left top, left bottom, from(#f5e47b), to(#fb930a));
-  background: linear-gradient(to bottom, #f5e47b, #fb930a);
+  background: linear-gradient(to bottom, #cbab82, #3be750);
   margin-top: 35px;
   text-transform: uppercase;
 }
